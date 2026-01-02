@@ -22,9 +22,11 @@ Simple and user-friendly interface
 Python, Pandas, NumPy, Scikit-learn, Flask/FastAPI, HTML, CSS, JavaScript
 
 🎯 Use Cases
+
 Farmers & agri-students
 Smart farming projects
 ML-based agriculture research
 
 🚀 Future Scope
+
 Weather integration, fertilizer suggestions, multilingual support, mobile app.
