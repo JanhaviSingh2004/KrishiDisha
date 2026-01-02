@@ -9,16 +9,23 @@ Farmers often rely on traditional knowledge or guesswork for crop selection, soi
 💡 Solution
 
 Krishi Disha bridges this gap by using AI and data analytics to guide farmers with smart recommendations based on soil and environmental parameters.
+
 The platform focuses on:
+
 Improving crop selection accuracy
+
 Enhancing yield potential
+
 Reducing dependency on trial-and-error farming
 
 ✨ Features
 
 Crop recommendation using ML
+
 Data-driven insights
+
 Intelligent decision support
+
 Simple and user-friendly interface
 
 🛠️ Tech Stack
@@ -28,7 +35,9 @@ Python, Pandas, NumPy, Scikit-learn, Flask/FastAPI, HTML, CSS, JavaScript
 🎯 Use Cases
 
 Farmers & agri-students
+
 Smart farming projects
+
 ML-based agriculture research
 
 🚀 Future Scope
